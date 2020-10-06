@@ -56,5 +56,5 @@ Know these terms:</br>
 * User behavior analytics (UBA)
 
 ### Additional Resources
-[Keycloak Documentation](https://www.keycloak.org/documentation)
-[Introduction to Keycloak SSO](https://www.youtube.com/watch?v=5MQoJZKXM_s&feature=youtu.be)
+* [Keycloak Documentation](https://www.keycloak.org/documentation)
+* [Introduction to Keycloak SSO](https://www.youtube.com/watch?v=5MQoJZKXM_s&feature=youtu.be)

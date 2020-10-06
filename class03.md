@@ -42,5 +42,5 @@ Consider privilege auditing (does everyone have correct permissions and *only* w
 
 
 ### Additional Resources
-[How to Become a Security Auditor](https://www.cybersecurityeducation.org/careers/security-auditor/)
-[How to use Cyber Security Evaluation Tool (CSET®) to assess Cyber Risk](https://www.youtube.com/watch?v=1PVC-fwnxp4&ab_channel=UniversityofDayton)
+* [How to Become a Security Auditor](https://www.cybersecurityeducation.org/careers/security-auditor/)
+* [How to use Cyber Security Evaluation Tool (CSET®) to assess Cyber Risk](https://www.youtube.com/watch?v=1PVC-fwnxp4&ab_channel=UniversityofDayton)
