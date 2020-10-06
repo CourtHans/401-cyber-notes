@@ -20,7 +20,40 @@ IAM systems have to be flexible in today's modern workspaces... they used to be 
 
 In 2017, the state of New York's new requirement went into effect, with requirements for financial services companies that included monitoring activities of authorized users and maintaining audit logs. 
 
+Identity management is critical to running an efficient and competitive organization while mitigating risk of exposure. It can reduce the workload on the IT help desk, be the cornerstone of a secure network, and safely extend access across applications and users. It forces a company to be deliberate in their access choices, as opposed to lackadaisically organic. 
 
+> "Approximately 60 percent of all data breaches are caused by an organization’s own employees, according to IBM’s 2016 Cyber Security Intelligence Index. Of those, 75 percent were malicious in intent; 25 percent were accidental."
+
+***"Some organizations are moving from two-factor to three-factor authentication, says Abousselham, combining something you know (your password), something you have (a smartphone), and something you are (facial recognition, iris scanning or fingerprint sensors)."***
+
+Federated identity management is an authentication-sharing mechanism that can work across multiple networks (sharing digital IDS with trusted partners).  SSO (single sign-on) is an example of this. 
+
+SAML - security assertion markup language
+
+Having an IAM strategy - arrive at a single approach (not necessarily a single solution) that addresses today's technologies, best practices, and risks, and you'll be in an "audit-ready stance rather than a reactive stance."
+
+***Risk notice*** - " Centralized operations present tempting targets to hackers and crackers. By putting a dashboard over all of a company’s identity management activities, these systems reduce complexity for more than the administrators. Once compromised, they could allow an intruder to create IDs with extensive privileges and access to many resources."
+
+Know these terms:</br>
+* Access management
+* Active Directory (AD)
+* Biometric authentication
+* Context-aware network access control
+* Credential
+* De-provisioning
+* Digital identity
+* Entitlement
+* Identity as a Service (IDaaS) (cloud-based IDaaS)
+* Identity lifecycle management
+* Identity synchronization
+* Lightweight Directory Access Protocol (LDAP)
+* Multi-factor authentication (MFA)
+* Password reset
+* Privileged account management
+* Risk-based authentication (RBA)
+* Security principal
+* Single sign-on (SSO)
+* User behavior analytics (UBA)
 
 ### Additional Resources
 [Keycloak Documentation](https://www.keycloak.org/documentation)
