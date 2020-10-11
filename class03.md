@@ -1,4 +1,5 @@
 # Day 3 - Security Auditing with CSET
+10/7/20
 
 * [What Is an IT Security Audit?](https://www.dnsstuff.com/it-security-audit)
 * [Security Audits - CompTIA Security+ SY0-401: 2.3](https://www.youtube.com/watch?v=FrzpyLZYKxo&ab_channel=ProfessorMesser)
