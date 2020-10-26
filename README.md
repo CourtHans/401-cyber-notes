@@ -12,3 +12,7 @@
 * [Day 12 - Intrusion Detection and Prevention Systems (IDS/IPS)](class12.md)
 * [Day 13 - Cloud Architecture Security](class13.md)
 * [Day 14 - Cloud Network Traffic Analysis](class14.md)
+* [Day 16 - Threat Analysis, Cyber Kill-Chain, and Stuxnet](class16.md)
+* [Day 17 - Threat Analysis Using MITRE ATT&CK](class17.md)
+* [Day 18 - Web Application Threat Modeling with OWASP, DREAD](class18.md)
+* [Day 19 - Threat Modeling with DFDs, STRIDE](class19.md)
