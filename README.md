@@ -16,3 +16,8 @@
 * [Day 17 - Threat Analysis Using MITRE ATT&CK](class17.md)
 * [Day 18 - Web Application Threat Modeling with OWASP, DREAD](class18.md)
 * [Day 19 - Threat Modeling with DFDs, STRIDE](class19.md)
+* [Day 26 - Setting up Splunk SIEM](class26.md)
+* [Day 27 - Adding Data Sources with Splunk SIEM](class27.md)
+* [Day 28 - Threat Hunting with ELK Stack](class28.md)
+* [Day 29 - Cloud incident response in AWS EC2](class29.md)
+
