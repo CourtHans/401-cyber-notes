@@ -20,4 +20,7 @@
 * [Day 27 - Adding Data Sources with Splunk SIEM](class27.md)
 * [Day 28 - Threat Hunting with ELK Stack](class28.md)
 * [Day 29 - Cloud incident response in AWS EC2](class29.md)
-
+* [Day 31 - Malware Detection with YARA Rules](class31.md)
+* [Day 32 - XSS, SQL Injection](class32.md)
+* [Day 33 - Malware Analysis](class33.md)
+* [Day 34 - PowerShell in Cybersecurity](class34.md)
