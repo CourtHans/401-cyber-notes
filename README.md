@@ -24,3 +24,6 @@
 * [Day 32 - XSS, SQL Injection](class32.md)
 * [Day 33 - Malware Analysis](class33.md)
 * [Day 34 - PowerShell in Cybersecurity](class34.md)
+* [Day 36 - Scanning the OWASP BWA](class36.md)
+* [Day 37 - Python in Cybersecurity](class37.md)
+* [Day 38 - Vulnerability Scanning with Nessus](class38.md)
