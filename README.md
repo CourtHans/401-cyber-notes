@@ -27,3 +27,8 @@
 * [Day 36 - Scanning the OWASP BWA](class36.md)
 * [Day 37 - Python in Cybersecurity](class37.md)
 * [Day 38 - Vulnerability Scanning with Nessus](class38.md)
+* [Day 39 - SQLi with Burp Suite, WebGoat](class39.md)
+* [Day 41 - Reconnaissance](class41.md)
+* [Day 42 - Scanning and Enumeration with NMAP](class42.md)
+* [Day 43 - Sniffing and Evasion](class43.md)
+* [Day 44 - Exploitation with Metasploit](class44.md)
