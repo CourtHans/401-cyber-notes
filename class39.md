@@ -1,4 +1,4 @@
-# Day 39 - SQLi with Burp Suite, WebGoat
+# Day 39 - SQL with Burp Suite, WebGoat
 11/30/20
 
 * [Understanding SQL Injection, Identification and Prevention](https://www.varonis.com/blog/sql-injection-identification-and-prevention-part-1/)
